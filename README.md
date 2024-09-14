@@ -31,10 +31,10 @@
     <img src="img/apple-touch-icon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">TERMO I.A GEMINI</h3>
+<h3 align="center">TERMO A.I GEMINI</h3>
 
   <p align="center">
-    <a href="https://pcantarutti.github.io/Termo-I.A/">Testar projeto</a>
+    <a href="https://pcantarutti.github.io/Termo-I.A/">Test project</a>
   </p>
 </div>
 
@@ -45,43 +45,44 @@
   <summary>Tabela de conteúdo</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
+      <a href="#about-the-project">About the Project</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#license">Licença</a></li>
-    <li><a href="#contact">Contato</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## Sobre o Projeto
+## About the Project
+
+<p align="left">TERMO A.I: The game that challenges you to think! Choose the theme and have fun guessing words with the help of GEMINI to generate the theme of your choice. I developed using only JavaScript, HTML and CSS.</p>
 
 [![Product Name Screen Shot][product-screenshot]](https://pcantarutti.github.io/Termo-I.A/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Pre requisitos
+### Prerequisites
 
-Para usar o projeto a vontade primeiro você precisará de uma chave da API do GEMINI
+To use the project at will, you will first need a GEMINI API key
 
-### Instalação
+### Installation
 
-1. Consiga uma chave API em [https://aistudio.google.com/app/apikey?hl=pt-br](https://aistudio.google.com/app/apikey)
-2. Clone o repositório 
+1. Get an API key at [https://aistudio.google.com/app/apikey?hl=pt-br](https://aistudio.google.com/app/apikey)
+2. Clone the repository
    ```sh
    git clone https://github.com/PCantarutti/Termo-I.A.git
    ```
 
-3. Coloque sua API em `gerador_palavras.js`
+3. Put your API in `gerador_palavras.js`
    ```js
    const API_KEY = 'COLOQUE SUA CHAVE API';
    ```
@@ -91,7 +92,7 @@ Para usar o projeto a vontade primeiro você precisará de uma chave da API do G
 
 
 <!-- LICENSE -->
-## Licença
+## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -100,11 +101,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contato
+## Contact
 
 Linkedin: [https://www.linkedin.com/in/pedro-cantarutti-3255b2240/](https://www.linkedin.com/in/pedro-cantarutti-3255b2240/)
 
-Link do projeto: [https://github.com/PCantarutti/Termo-I.A](https://github.com/PCantarutti/Termo-I.A)
+Project link: [https://github.com/PCantarutti/Termo-I.A](https://github.com/PCantarutti/Termo-I.A)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
