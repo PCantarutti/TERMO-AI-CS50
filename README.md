@@ -18,7 +18,7 @@
     <a href="https://pcantarutti.github.io/TERMO-AI-CS50/">Test project</a>
   </p>
   <p align="center">
-    <a href="#">Video Demo here</a>
+    <a href="https://youtu.be/0FC6LhN5YCw?si=f6vG_g1fqViHq8pb">Video Demo here</a>
   </p>
 </div>
 
@@ -37,9 +37,9 @@ This game was inspired by another game of the same name, with its development ca
 
 <details>
   <summary>TIP</summary>
-  
-  You can access the browser console to know the word beforehand if you want to cheat 
-  
+
+  You can access the browser console to know the word beforehand if you want to cheat
+
 </details></p>
 
 [![Product Name Screen Shot][product-screenshot]](https://pcantarutti.github.io/TERMO-AI-CS50/)
@@ -144,4 +144,4 @@ Project link: [https://github.com/PCantarutti/TERMO-AI-CS50](https://github.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
